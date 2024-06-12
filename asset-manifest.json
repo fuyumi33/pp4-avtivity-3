@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pp4-activity-3/static/css/main.e6c13ad2.css",
+    "main.js": "/pp4-activity-3/static/js/main.8a6681cc.js",
+    "index.html": "/pp4-activity-3/index.html",
+    "main.e6c13ad2.css.map": "/pp4-activity-3/static/css/main.e6c13ad2.css.map",
+    "main.8a6681cc.js.map": "/pp4-activity-3/static/js/main.8a6681cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8a6681cc.js"
+  ]
+}
